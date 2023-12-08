@@ -2,7 +2,7 @@
 R scripts for a reproducible analysis of logistic growth
 # Logistic Growth Analysis
 
-This repository contains the analysis of bacterial population growth in a test tube using the logistic growth model. The analysis aims to estimate the initial population size (\(N_0\)), the rate of growth (\(r\)), and the carrying capacity (\(K\)).
+This repository contains the analysis of bacterial population growth in a test tube using the logistic growth model. The analysis aims to estimate the initial population size $N_0$, the rate of growth $r$, and the carrying capacity (\(K\)).
 
 ## The Model
 
