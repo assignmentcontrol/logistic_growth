@@ -48,11 +48,13 @@ Under the logistic growth the population growth reaches stasis at the level of a
 
 Using prepared script, the following paths were produced:
 ![image](https://github.com/assignmentcontrol/logistic_growth/assets/153260107/dbdc6c7a-204f-464e-966c-190ba1ff34fd)
-These pahths are completely random, they do not share the walking trajectory, do not show the patterns and tendencies. The paths also exhibit significant volatility, with frequent fluctuations around the central trend. The distribution of individual steps appears to be skewed towards negative values in the second graph, but not in the first.
+These pahths are completely random, they do not share the walking trajectory, do not show the patterns and tendencies. The paths also exhibit significant volatility, with frequent fluctuations around the central trend. The distribution of individual steps appears to be skewed towards negative values in the second 
+graph, but not in the first.
 
 ##### Random seed 
 Many simulations appear to be pseudo-random. It is implemented using a random seed as a starting point for generating random numbers. It initializes the random number generator, ensuring that the sequence of random numbers generated is reproducible. If the same seed is provided to the random generator, the same sequence is going to be yielded. It allows  to obtain the same set of random numbers each time in a simulation.
 
 
+<img width="1426" alt="Screenshot 2023-12-08 at 02 29 27" src="https://github.com/assignmentcontrol/logistic_growth/assets/153260107/f44bb5fb-fd1c-40a9-a351-4423769682d1">
 
 
